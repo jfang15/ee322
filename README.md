@@ -2,5 +2,5 @@
 
 **this text is bold wow!**
 
-__please don't look at this__
+~~please don't look at this~~
 
