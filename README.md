@@ -1,6 +1,6 @@
-# hi
+# EE 322 D6
 
-**this text is bold wow!**
+### Jackie Fang
 
-~~please don't look at this~~
+
 
