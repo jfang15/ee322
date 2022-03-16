@@ -48,3 +48,42 @@
 ![image](https://user-images.githubusercontent.com/78617568/158511617-8020e8f6-3f2f-49a5-8777-2dff7d656ec7.png)<br/>
 ![image](https://user-images.githubusercontent.com/78617568/158511658-71ad2f82-e786-4376-a9bb-d066e55e03ec.png)<br/>
 ![image](https://user-images.githubusercontent.com/78617568/158511711-576e0196-b5bf-4ebd-9863-bd2f6694190a.png)
+
+### django rest project mycpu
+
+**start django project**<br/>
+![image](https://user-images.githubusercontent.com/78617568/158512303-7fb7d61e-e87c-4022-92a1-54b07bf35816.png)
+
+**start django app**<br/>
+![image](https://user-images.githubusercontent.com/78617568/158512891-80a8aa44-dfde-46a9-bf8b-efeb63aab84c.png)
+
+**settings.py**<br/>
+![image](https://user-images.githubusercontent.com/78617568/158513060-07a71b1a-5ccd-4c37-a7d0-ca83c3d3e351.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/158513034-71e761af-341a-4f8b-b7bd-90c8e7ee0f0e.png)
+
+**copy urls.py**<br/>
+![image](https://user-images.githubusercontent.com/78617568/158513142-aca19527-80d4-434b-b83b-e72e958627ac.png)
+
+**copy admin.py, models.py, and views.py**<br/>
+![image](https://user-images.githubusercontent.com/78617568/158513282-7f4e193e-4c4e-4cc7-b313-2bb4ceedd02f.png)
+
+**copy index.html**<br/>
+![image](https://user-images.githubusercontent.com/78617568/158513554-1bde18ab-0eac-4d2b-9542-7c209d588eb3.png)
+
+**add google maps api key**<br/>
+![image](https://user-images.githubusercontent.com/78617568/158513699-a675c2eb-99db-463e-8034-65297af6235e.png)
+
+**copy static files**<br/>
+![image](https://user-images.githubusercontent.com/78617568/158513867-5300d83e-85f4-4a17-9868-2d51cedd641a.png)
+
+**copy controller.py**<br/>
+![image](https://user-images.githubusercontent.com/78617568/158513977-17ad2f66-efbf-4a88-b48b-da837a437a32.png)
+
+**create user**<br/>
+![image](https://user-images.githubusercontent.com/78617568/158514206-04131e5b-28cb-43a1-aeba-e499615f1905.png)
+
+**add data**<br/>
+![image](https://user-images.githubusercontent.com/78617568/158515259-e146aac3-8419-4772-b3af-29a355a29829.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/158515281-ad6d3808-1193-4f36-8331-321384a51363.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/158515295-625fc574-380b-48fa-a73b-91ae21f4768a.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/158515309-7f359c62-17c0-44dd-86e4-6d2b8c8ab61e.png)
