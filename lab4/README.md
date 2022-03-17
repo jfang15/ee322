@@ -87,3 +87,15 @@
 ![image](https://user-images.githubusercontent.com/78617568/158515281-ad6d3808-1193-4f36-8331-321384a51363.png)<br/>
 ![image](https://user-images.githubusercontent.com/78617568/158515295-625fc574-380b-48fa-a73b-91ae21f4768a.png)<br/>
 ![image](https://user-images.githubusercontent.com/78617568/158515309-7f359c62-17c0-44dd-86e4-6d2b8c8ab61e.png)
+
+### Flask
+
+**run flask server**
+![image](https://user-images.githubusercontent.com/78617568/158713432-7f48cb3e-8616-493b-b5b8-26ff35095a25.png)
+![image](https://user-images.githubusercontent.com/78617568/158713458-ffc1c23d-c07c-4ae4-afee-9713da486417.png)
+
+**install fkasl-ask and ngrok**
+![image](https://user-images.githubusercontent.com/78617568/158713955-07201f38-a9da-4f79-8b7d-71b977486574.png)
+![image](https://user-images.githubusercontent.com/78617568/158713979-563e5c39-2773-4f96-9875-44a496352959.png)
+![image](https://user-images.githubusercontent.com/78617568/158714002-fff88f8a-b037-4445-b271-82c204901441.png)
+![image](https://user-images.githubusercontent.com/78617568/158714020-570ba1ab-f4d0-461a-899e-c4c3b541095a.png)
