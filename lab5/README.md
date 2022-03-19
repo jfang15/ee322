@@ -1,23 +1,17 @@
-# Lab 5 - Paho-MQTT
+# Lab 5 - Paho-MQTT</br>
 
-**installing mosquitto**
-![image](https://user-images.githubusercontent.com/78617568/158504473-71af0f41-0966-4616-95ef-35ea781fb2d4.png)
-![image](https://user-images.githubusercontent.com/78617568/158504529-fd0159f5-cc74-41bc-9f79-3590de2b6ca3.png)
-![image](https://user-images.githubusercontent.com/78617568/158504549-b30821cb-8272-4775-bf09-778c09f425e7.png)
-![image](https://user-images.githubusercontent.com/78617568/158517022-d74c6629-940d-4b46-82cc-598b4aca258a.png)
+### Eclipse Mosquitto and Eclipse Paho</br>
 
-![image](https://user-images.githubusercontent.com/78617568/158517729-19a8e87e-f28c-41a8-a3b4-a8e0747f06a2.png)
-![image](https://user-images.githubusercontent.com/78617568/158517746-d1b00ab7-abc3-4a27-9105-6b6e6f16aa0f.png)
+**Install and run Mosquitto**</br>
+![image](https://user-images.githubusercontent.com/78617568/159139393-893b91d3-2efb-4ad4-91a8-b37c8b13e024.png)</br>
+![image](https://user-images.githubusercontent.com/78617568/159139394-43bdaca0-df65-4a61-a0c1-83d11fd531e0.png)</br>
+![image](https://user-images.githubusercontent.com/78617568/159139419-1af58f8b-2ea7-4804-aca9-6bb2129d0a94.png)</br>
+![image](https://user-images.githubusercontent.com/78617568/159139492-6db1d9b9-700c-485e-8933-186d85e6b43c.png)
 
-terminal 1
-![image](https://user-images.githubusercontent.com/78617568/158517795-2c0c566b-a43f-4219-aa5d-ac664a1576c9.png)
+![image](https://user-images.githubusercontent.com/78617568/159139548-d1eda116-774e-47f1-b08a-42a835c11260.png)</br>
+![image](https://user-images.githubusercontent.com/78617568/159139555-e46e3457-0277-49a4-a53b-81b0a6011c9c.png)
 
-terminal 2
-![image](https://user-images.githubusercontent.com/78617568/158517889-e9852427-007c-4868-bc21-5c1f6dc9910e.png)
-
-install paho
-![image](https://user-images.githubusercontent.com/78617568/158517935-baa23ad7-da51-4df6-8cc9-1f01fbd75138.png)
-![image](https://user-images.githubusercontent.com/78617568/158517977-fde5e339-b622-4525-8a94-3cdf350e235b.png)
-![image](https://user-images.githubusercontent.com/78617568/158518078-6e057ff3-e1cd-4ad1-a8b7-9aa9d65155f8.png)
-![image](https://user-images.githubusercontent.com/78617568/158518120-bebf9856-357e-4977-8357-a6f1ff119bfc.png)
+**Instal Paho**</br>
+![image](https://user-images.githubusercontent.com/78617568/159139745-e12de52d-fd2a-462d-9ba3-da13b7081d05.png)</br>
+![image](https://user-images.githubusercontent.com/78617568/159139860-e1790ddf-eae6-416b-bdce-5aeda8c6a885.png)
 
