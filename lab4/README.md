@@ -1,101 +1,95 @@
 # Lab 4 - Django and Flask
 
-### Install Django and Django REST framework <br/>
-**Check pip3 version and packages**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158492925-df1a8f55-13ed-47d3-99b5-dd78d55f4ca5.png)<br/>
-![image](https://user-images.githubusercontent.com/78617568/158492944-5e6d3b4f-0b16-46c3-ab29-69639715ac52.png)
+### Django
 
-**various installation steps**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158493211-a3b29ec4-0223-46f6-b538-90faa1394361.png)<br/>
-![image](https://user-images.githubusercontent.com/78617568/158493284-30e5104a-bcae-4d23-979c-17800cdd955b.png)<br/>
-![image](https://user-images.githubusercontent.com/78617568/158493431-e896e333-f9fa-42a9-a7ea-bdaab6dc32fb.png)
-![image](https://user-images.githubusercontent.com/78617568/158509122-63b99836-d5c1-4fbe-b595-be8141fd37a5.png)
-![image](https://user-images.githubusercontent.com/78617568/158509145-2d1274ed-9abc-4e71-8fd5-a3df680118b3.png)
+**Install Django**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159112178-953dd90a-6ab0-4612-a6eb-21bbaed13649.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159112228-41d134df-ae79-4fec-96d3-e935284ace27.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159112237-491cc8ff-1485-4ee8-b450-8c7e1fe99405.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159112508-0ff26c35-719f-4448-b45d-6655ce10dfe2.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159112855-1564abdb-f126-4026-b2b6-50d0f9c31aec.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159112865-3c4ba05e-b019-4ba7-9b03-e6974cc10056.png)
 
-**start django project**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158493608-66e01529-7b5f-43c4-8d42-239fef7737d7.png)<br/>
+**Install SQLite**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159112986-5d7c9bb0-3f5d-4d8f-8c6b-731e1b6180d7.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159112995-1263cb5a-ac00-4c1b-81ac-1be8b5ae5f8b.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113000-48798f43-021e-4bd6-872e-4541373e40f5.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113029-bd95369d-2cf5-4f1f-b026-b4135bc8ebc8.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113043-c1e5652e-214b-4cc8-9a53-a1c0f61cdbf1.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113123-03c1c154-7ea8-488a-9297-8983fcaea8b3.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113131-05f17036-998c-4405-b1be-c7aa7773df69.png)
 
-**start django app**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158507360-913e7b4c-ab72-4703-af16-e58899f2975b.png)<br/>
+### **Django Project stevens**
 
-**create mysql database**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158509739-e25c2a8c-6702-4191-a1c5-41479e19e5e4.png)<br/>
+**Start Django project and app**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113222-2575c660-c1ea-41b2-a532-33e65678ea53.png)
 
-**edit settings.py** <br/>
-![image](https://user-images.githubusercontent.com/78617568/158506552-82cdfb65-0f35-4b72-b4b2-8031c02058c0.png)<br/>
-![image](https://user-images.githubusercontent.com/78617568/158510044-81376b6c-7d3e-4a32-8ebc-dd90a9170b25.png)
+**Create MySQL database**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113360-40d71be3-1ba1-4c3d-8a30-ad42a63f5e5c.png)
 
-**copy urls.py**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158506934-8bbe288c-0a66-4ecf-9dc1-4a30811966fe.png)
+**Edit settings.py**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113471-2321b3d9-652b-4480-b4bf-1175e71875b6.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113454-f894cfc9-66fd-4757-9e87-43e5f6aa702e.png)
 
-**copy admin.py, models.py, and views.py**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158507520-a73daa15-4553-42f9-8b4e-ad4cea46194f.png)
+**Copy urls.py, admin.py, models.py, views.py**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113527-56729636-49a3-4d2a-8658-adf85032b2bf.png)
 
-**copy index.html**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158507703-ded3b0e5-21a6-4ad5-a09c-6a41e69d269e.png)
+**Copy and edit index.html**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113632-ddd8454d-5a5e-4cab-948a-91f49f9d094c.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113626-368ef5cc-a7ff-4def-8d94-62ee53943713.png)
 
-**adding api key**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158507973-e995287b-4c7c-4bb8-b3d7-92416b25ed26.png)<br/>
-![image](https://user-images.githubusercontent.com/78617568/158507938-2943cb3d-0d77-432c-8690-6989a1d42199.png)
+**Copy static files**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113684-ac853510-43f2-41e6-9081-f5009d9f2373.png)
 
-**copy static files**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158508185-04b5e7e6-21bc-4ffd-aa79-3fbaf50e61f9.png)
+**Create user**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113720-7fa7e425-dde0-4b87-ac05-727f62a9903b.png)
 
-**create user**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158510304-7e83a56e-f951-491c-90de-58f6a7b75e6c.png)
+**Server ran and temperature data added**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113962-7c895b60-8dc2-4bed-9f73-0b460da2c0ac.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113972-a679640e-d6b5-407d-8956-68dd4283ce78.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113914-5dcc6977-6d28-4b32-8c23-f19eaf8f09a3.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113980-a45dc4b1-599c-4439-a485-c61a65e675ec.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159113942-94e3c37e-c37b-4214-ac67-2558c8d34f8d.png)
 
-**add data**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158511617-8020e8f6-3f2f-49a5-8777-2dff7d656ec7.png)<br/>
-![image](https://user-images.githubusercontent.com/78617568/158511658-71ad2f82-e786-4376-a9bb-d066e55e03ec.png)<br/>
-![image](https://user-images.githubusercontent.com/78617568/158511711-576e0196-b5bf-4ebd-9863-bd2f6694190a.png)
+### Django project mycpu
 
-### django rest project mycpu
+**Start Django project and app**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114070-c6424f49-2caf-496e-bff4-1826c51fc5d6.png)
 
-**start django project**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158512303-7fb7d61e-e87c-4022-92a1-54b07bf35816.png)
+**Edit settings.py**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114092-51f5ec58-91b9-4034-8ed9-2bd410b3ff29.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114088-98e54c9b-6abc-4c2c-8425-b2513f77f0e4.png)
 
-**start django app**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158512891-80a8aa44-dfde-46a9-bf8b-efeb63aab84c.png)
+**Copy urls.py, admin.py, models.py, views.py, serializers.py**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114189-014c743d-b629-40c4-b0d6-642f734587b4.png)
 
-**settings.py**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158513060-07a71b1a-5ccd-4c37-a7d0-ca83c3d3e351.png)<br/>
-![image](https://user-images.githubusercontent.com/78617568/158513034-71e761af-341a-4f8b-b7bd-90c8e7ee0f0e.png)
+**Copy index.html and put API key**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114428-c6736d0e-c37c-4061-9199-70fe603c886e.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114476-04cb52ea-5cc2-46b6-80f0-347ebe0a3891.png)
 
-**copy urls.py**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158513142-aca19527-80d4-434b-b83b-e72e958627ac.png)
+**Copy static files and controller.py**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114536-d53db594-959d-4bb9-b92c-cef3bcf473bb.png)
 
-**copy admin.py, models.py, and views.py**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158513282-7f4e193e-4c4e-4cc7-b313-2bb4ceedd02f.png)
+**Create user**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114593-a6834042-fe07-4f74-a2ce-98d132cd2416.png)
 
-**copy index.html**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158513554-1bde18ab-0eac-4d2b-9542-7c209d588eb3.png)
+**Adding data**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114665-ab9dc787-c7ec-4410-bb3a-5acc577e84b0.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114683-4133f2b5-058f-42a1-b2ed-72057cf6044f.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114691-61ac6ec2-c676-4fee-9122-fa44b1e37295.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114698-d04b3914-1a51-4d57-b2bc-af9ee0af26eb.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114729-322e58e8-798e-494b-9ef2-70fe012f0bbd.png)
 
-**add google maps api key**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158513699-a675c2eb-99db-463e-8034-65297af6235e.png)
+# Flask
 
-**copy static files**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158513867-5300d83e-85f4-4a17-9868-2d51cedd641a.png)
+**Run server**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114796-0c62900a-05fc-4b2a-aee3-b43b4ebaddec.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114783-7f96e007-724d-47d2-9ea5-0bd33a2c4740.png)
 
-**copy controller.py**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158513977-17ad2f66-efbf-4a88-b48b-da837a437a32.png)
+**Install Flask-ask and Ngrok**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159114852-75340131-9381-4660-901f-d00114c7dd14.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159115264-28ded0b9-9ef4-4317-8db9-ccddab3be215.png)<br/>
+![image](https://user-images.githubusercontent.com/78617568/159115270-13805ccd-2dd4-43c3-8222-b75a8775b8d4.png)
 
-**create user**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158514206-04131e5b-28cb-43a1-aeba-e499615f1905.png)
-
-**add data**<br/>
-![image](https://user-images.githubusercontent.com/78617568/158515259-e146aac3-8419-4772-b3af-29a355a29829.png)<br/>
-![image](https://user-images.githubusercontent.com/78617568/158515281-ad6d3808-1193-4f36-8331-321384a51363.png)<br/>
-![image](https://user-images.githubusercontent.com/78617568/158515295-625fc574-380b-48fa-a73b-91ae21f4768a.png)<br/>
-![image](https://user-images.githubusercontent.com/78617568/158515309-7f359c62-17c0-44dd-86e4-6d2b8c8ab61e.png)
-
-### Flask
-
-**run flask server**
-![image](https://user-images.githubusercontent.com/78617568/158713432-7f48cb3e-8616-493b-b5b8-26ff35095a25.png)
-![image](https://user-images.githubusercontent.com/78617568/158713458-ffc1c23d-c07c-4ae4-afee-9713da486417.png)
-
-**install fkasl-ask and ngrok**
-![image](https://user-images.githubusercontent.com/78617568/158713955-07201f38-a9da-4f79-8b7d-71b977486574.png)
-![image](https://user-images.githubusercontent.com/78617568/158713979-563e5c39-2773-4f96-9875-44a496352959.png)
-![image](https://user-images.githubusercontent.com/78617568/158714002-fff88f8a-b037-4445-b271-82c204901441.png)
-![image](https://user-images.githubusercontent.com/78617568/158714020-570ba1ab-f4d0-461a-899e-c4c3b541095a.png)
+**Memory Game**<br/>
+![image](https://user-images.githubusercontent.com/78617568/159115591-455e7b91-07f3-42ef-8581-8cd991242b92.png)
