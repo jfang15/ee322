@@ -9,3 +9,9 @@
 ![image](https://user-images.githubusercontent.com/78617568/168264997-b743c9df-fc88-4b16-b85e-51f710a57150.png)
 ![image](https://user-images.githubusercontent.com/78617568/168265575-fec834fd-21fe-4d4c-b7e0-486b25047e02.png)
 
+![image](https://user-images.githubusercontent.com/78617568/168271989-4de47f57-a42f-4e23-831c-e2a444b6da8c.png)
+![image](https://user-images.githubusercontent.com/78617568/168272137-4cec0676-7369-4550-b3a1-6318a27164cb.png)
+error with python3 plt_final.py
+![image](https://user-images.githubusercontent.com/78617568/168272905-8e27d42f-55fa-40ff-b46e-f8603ad8ebde.png)
+error with python3 plt_cv2.py
+![image](https://user-images.githubusercontent.com/78617568/168272979-6b0ba0a5-d1af-4b36-a930-f0f805e82187.png)
