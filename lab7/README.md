@@ -1,4 +1,4 @@
-# LEsson 7: CLoud Platforms
+# Lesson 7: Cloud Platforms
 
 ### ThingSpeak
 ![image](https://user-images.githubusercontent.com/78617568/167242997-d94792d2-2606-49c3-aeab-b128c60fe969.png)
